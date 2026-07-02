@@ -21,11 +21,11 @@ Dataset contains
 ## Business Problem
 Retail businesses generate thousands of transactions every day. Without effective data analysis, it becomes difficult to identify sales trends, top-performing products, customer behavior, and operational performance. This project aims to analyze retail transaction data and present actionable insights through an interactive Power BI dashboard.
 ## Objectivness
-- Analyze retail revenue performance.  
-- Identify top-selling products.
-- Analyze revenue by category.
-- Compare revenue across sales channels.
-- Monitor monthly revenue trends.
+- Analyze retail sales performance.  
+- Identify top selling products.
+- Analyze sales by category.
+- Compare sales across sales channels.
+- Monitor monthly sales trends.
 - Evaluate order status distribution.
 - Build an interactive dashboard for business monitoring.
 ## Flowchart
