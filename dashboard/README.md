@@ -3,10 +3,10 @@ This folder contains the interactive Power BI dashboard developed for this proje
 
 ## Dashboard Features
 - KPI Cards
-- Monthly Revenue Trend
+- Monthly Sales Trend
 - Top 10 Products
-- Revenue by Category
-- Revenue by Channel
-- Revenue by City
+- Sales by Category
+- Sales by Channel
+- Sales by City
 - Order Status Distribution
 - Interactive Filters
