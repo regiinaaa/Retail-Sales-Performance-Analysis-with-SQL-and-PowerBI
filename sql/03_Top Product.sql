@@ -1,6 +1,6 @@
 SELECT
 product_name AS Product_Name,
-SUM(quantity) AS Qty
+SUM(total_sales) AS Sales
 FROM orders
 GROUP BY product_name
-ORDER BY qty DESC;
+ORDER BY total_sales DESC;
